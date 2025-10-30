@@ -1,0 +1,9 @@
+# Ignore everything except Git config
+*
+!.gitignore
+!.git/
+!*/
+!*.jpg
+!*.png
+!*.jpeg
+!*.txt
